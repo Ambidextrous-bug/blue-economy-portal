@@ -1,0 +1,2 @@
+- [ ] Modify HTML in resources/views/home.blade.php to wrap text in spans with classes
+- [ ] Update CSS in public/CSS/style.css to set different font sizes for the spans
